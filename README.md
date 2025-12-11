@@ -1,5 +1,3 @@
----
-
 # Gravity Jigsaw CV – Classical Computer Vision Jigsaw Solver
 
 This project solves jigsaw-style puzzles **purely with classical image processing** (no machine learning).
@@ -202,7 +200,7 @@ And a **metadata file**:
     "col": 0,
     "bbox": [0, 0, 112, 112]
   },
-  
+  ...
 ]
 ```
 
